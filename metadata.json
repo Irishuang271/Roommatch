@@ -1,0 +1,6 @@
+{
+  "name": "RoomMatch",
+  "description": "Nền tảng ghép roommate và tìm phòng trọ thông minh dành cho sinh viên đại học với điểm tương thích lối sống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
